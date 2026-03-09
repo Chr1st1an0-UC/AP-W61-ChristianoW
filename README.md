@@ -4,4 +4,4 @@ Analisis Pertanyaan Week 6 Tugas 1
 
 2. terdapat 2 class yang memanggil 1 method yang sama namun tedapat perbedaan yaitu pada class vechile (Super class) method move masih mempunyai output "Vechile is moving" dan pada class car (Sub Class) sudah terdapat override atau penimpaan terhadap method move dan outputnya berubah menjadi "Car is moving"
 
-3. 
+3. Perbedaan dari Inheritance dan Override adalah pada inheritance, Super class atau class utama dapat memberikan atau mewariskan method yang ada di class utama kepada Sub class atau class turunan yang bisa menggunakan method yang sama dengan yang ada di Super class dan bisa menambahkan sendiri methodnya sedangkan Override adalah teknik untuk bisa mengubah isi dari method yang ada di Sub class yang telah di wariskan dari Super class, jadi Sub class bisa mengubah method yang telah diwariskan dan disesuaikan dengan kebutuhannya. Maka dari itu, kedua hal tersebut saling berikatan
